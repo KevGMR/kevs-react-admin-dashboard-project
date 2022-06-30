@@ -54,7 +54,7 @@ const Navbar = () => {
       <div className='flex' >
         <NavButton
           title='Cart'
-          dotColor='#03C9D7'
+          // dotColor='#03C9D7'
           customFunc={() => handleClick('cart')}
           color='blue' icon={<FiShoppingCart />} />
         
